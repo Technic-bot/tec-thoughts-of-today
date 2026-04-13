@@ -1,0 +1,4 @@
+baseURL = 'https://tecrobot.org/'
+locale = 'en-us'
+title = 'Tec Thoughts of Today'
+theme = 'ananke'
