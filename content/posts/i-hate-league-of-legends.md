@@ -1,10 +1,10 @@
 +++
 date = '2026-04-12T19:53:24-06:00'
-draft = true
+draft = false
 title = 'I Hate League of Legends'
 +++
 
-![Fanart of kindred from LOL](https://twokinds.gallery/download/art/6829/2026.04.08_Kindred_Willow.png)
+![Fanart of kindred from LOL](https://twokinds.gallery/image/thumbnail/6829)
 
 I hate Lol
 
