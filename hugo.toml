@@ -1,4 +1,4 @@
-baseURL = 'https://tecrobot.org/'
+baseURL = 'https://tecrobot.org/blog/'
 locale = 'en-us'
 title = 'Tec Thoughts of Today'
 theme = 'ananke'
